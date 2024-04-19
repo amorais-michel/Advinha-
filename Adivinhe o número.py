@@ -3,9 +3,6 @@ import random# biblioteca random
 #escolhendo um numero random de 0 a 100
 numero_aleatorio = random.randint(0,100)
 
-
-
-print(numero_aleatorio)
 tentativas = 0 # variavel que vai guardar o numero de tentativas feitas pelo usuario
 
 while True:
